@@ -29,6 +29,10 @@ h1,h2,h3,h4,h5,h6{
 	color:#419D78;
 }
 
+p{
+	margin-top:15px;
+}
+
 .logo{
 	font-family: 'PT Serif', serif;
 	background:#419D78;
@@ -120,4 +124,9 @@ h1,h2,h3,h4,h5,h6{
 
 main h3{
 	margin-top:60px;
+}
+
+[class*="col"]{
+	margin-top:15px;
+	margin-bottom:15px;
 }
